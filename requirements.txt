@@ -1,6 +1,0 @@
-This is a GNews Scrapper that gives top 10 news by keywords over the last 30days
-
-Input: keywords.xlsx (including 1 column with header = keyword)
-Output: gnews.xlsx with columns for Title, Desc, URL, Publisher, Keyword
-
-Enjoy.I
