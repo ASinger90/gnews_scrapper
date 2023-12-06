@@ -1,0 +1,5 @@
+streamlit
+numpy
+gnews
+pandas
+io
